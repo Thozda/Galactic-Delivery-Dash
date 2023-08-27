@@ -10,19 +10,20 @@ public class Mission : MonoBehaviour
 {
     public GameObject[] planets;
     private GameObject chosenPlanet;
-    public GameObject tempPlanet;
+    private GameObject origionalPlanet;
+    private GameObject finalPlanet;
     private Vector3 planetPos;
     public GameObject arrowRotate;
-    public GameObject Button;
+    public GameObject collectButton;
+    public GameObject deliverButton;
 
     // Start is called before the first frame update
     void Start()
     {
         int n = Random.Range(0, planets.Length);
         chosenPlanet = planets[n];
-        //chosenPlanet = tempPlanet;
+        origionalPlanet = chosenPlanet;
         planetPos = chosenPlanet.transform.position;
-        //planetPos = tempPlanet.transform.position;
         print(chosenPlanet.name);
     }
 
@@ -39,17 +40,34 @@ public class Mission : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject == chosenPlanet)
+        if (other.gameObject == finalPlanet)
         {
-            Button.SetActive(true);
+            deliverButton.SetActive(true);
+        }
+        if (other.gameObject == origionalPlanet)
+        {
+            collectButton.SetActive(true);
         }
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.gameObject == chosenPlanet)
+        if (other.gameObject == finalPlanet)
         {
-            Button.SetActive(false);
+            deliverButton.SetActive(false);
         }
+        if (other.gameObject == origionalPlanet)
+        {
+            collectButton.SetActive(false);
+        }
+    }
+
+    public void collected()
+    {
+        int n = Random.Range(0, planets.Length);
+        chosenPlanet = planets[n];
+        finalPlanet = chosenPlanet;
+        planetPos = chosenPlanet.transform.position;
+        print(chosenPlanet.name);
     }
 }
