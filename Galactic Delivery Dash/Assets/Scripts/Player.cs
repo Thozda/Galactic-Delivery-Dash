@@ -2,6 +2,8 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -10,6 +12,7 @@ public class Player : MonoBehaviour
     public float rotationSpeed;
     private Rigidbody2D rb;
     public float health = 1f;
+    public Text healthDisplay;
 
     // Start is called before the first frame update
     void Start()
@@ -26,15 +29,17 @@ public class Player : MonoBehaviour
 
             transform.rotation = Quaternion.LookRotation(transform.forward, rb.velocity);
         }
+
+        healthDisplay.text = health.ToString();
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Pirate")
         {
-            health = health - 0.2f;
+            health = health - 0.3f;
             if (health <= 0f)
             {
-                Debug.Log("Dead");
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
             }
         }
         if (other.tag == "Planet")
@@ -42,7 +47,7 @@ public class Player : MonoBehaviour
             health = health - 0.1f;
             if (health <= 0f)
             {
-                Debug.Log("Dead");
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
             }
         }
     }

@@ -5,11 +5,13 @@ using UnityEngine;
 using Random = UnityEngine.Random;
 using CodeMonkey.Utils;
 using UnityEngine.AdaptivePerformance.VisualScripting;
+using UnityEngine.SceneManagement;
 
 public class Mission : MonoBehaviour
 {
     public GameObject[] planets;
     private GameObject chosenPlanet;
+    public GameObject chosenPlanetRigged;
     private GameObject origionalPlanet;
     private GameObject finalPlanet;
     private Vector3 planetPos;
@@ -23,7 +25,9 @@ public class Mission : MonoBehaviour
         int n = Random.Range(0, planets.Length);
         chosenPlanet = planets[n];
         origionalPlanet = chosenPlanet;
+        //origionalPlanet = chosenPlanetRigged;
         planetPos = chosenPlanet.transform.position;
+        //planetPos = chosenPlanetRigged.transform.position;
         print(chosenPlanet.name);
     }
 
@@ -68,6 +72,11 @@ public class Mission : MonoBehaviour
         chosenPlanet = planets[n];
         finalPlanet = chosenPlanet;
         planetPos = chosenPlanet.transform.position;
-        print(chosenPlanet.name);
+        //print(chosenPlanet.name);
+    }
+
+    public void Delivered()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
