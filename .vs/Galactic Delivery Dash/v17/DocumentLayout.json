@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|p:\\coding\\unity projects\\galactic delivery dash\\assets\\scripts\\spawnerrotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnerrotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|p:\\coding\\unity projects\\galactic delivery dash\\assets\\scripts\\pirate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pirate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\deathoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\levelplayads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelplayads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\pirate spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pirate spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\perksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\perksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\main menu controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main menu controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\skinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\movementjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\assets\\scripts\\currencymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734627B-D499-477C-422F-A887BF399AA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\currencymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:17:50.194Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpawnerRotator.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\SpawnerRotator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnerRotator.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\SpawnerRotator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnerRotator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:34:11.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelPlayAds.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\LevelPlayAds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelPlayAds.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\LevelPlayAds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelPlayAds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:55:29.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeathOverlay.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\DeathOverlay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathOverlay.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\DeathOverlay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathOverlay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:06:51.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SkinManager.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\SkinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SkinManager.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\SkinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SkinManager.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAwwIoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:15:21.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tutorial.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Tutorial.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tutorial.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Tutorial.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tutorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:55:24.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Missile.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Missile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Missile.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Missile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Missile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:37:29.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pirate.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Pirate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pirate.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Pirate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pirate.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswFEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:17:50.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PerksManager.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\PerksManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PerksManager.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\PerksManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PerksManager.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAUwHMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:17:49.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main Menu Controller.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Main Menu Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Main Menu Controller.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Main Menu Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Main Menu Controller.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:17:49.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CurrencyManager.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\CurrencyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CurrencyManager.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\CurrencyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CurrencyManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:17:49.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Mission.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mission.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Mission.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mission.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwDYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:17:49.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovementJoystick.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\MovementJoystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementJoystick.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\MovementJoystick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementJoystick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:17:49.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pirate Spawner.cs",
+              "DocumentMoniker": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Pirate Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pirate Spawner.cs",
+              "ToolTip": "P:\\Coding\\Unity Projects\\Galactic Delivery Dash\\Assets\\Scripts\\Pirate Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pirate Spawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:17:50.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
