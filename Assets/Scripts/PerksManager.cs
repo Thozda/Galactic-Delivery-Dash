@@ -15,6 +15,16 @@ public class PerksManager : MonoBehaviour
     public Button betterLasersButton;
     public Button ultraArmourButton;
 
+    public GameObject ShorterMissileCooldownLocked;
+    public GameObject BetterArmourLocked;
+    public GameObject BetterLasersLocked;
+    public GameObject UltraArmourLocked;
+
+    public GameObject ShorterMissileCooldownUnlocked;
+    public GameObject BetterArmourUnlocked;
+    public GameObject BetterLasersUnlocked;
+    public GameObject UltraArmourUnlocked;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -61,18 +71,26 @@ public class PerksManager : MonoBehaviour
         if (PerksManager.hasShorterMissileCooldown == true)
         {
             shorterMissileCooldownButton.interactable = false;
+            ShorterMissileCooldownLocked.SetActive(false);
+            ShorterMissileCooldownUnlocked.SetActive(true);
         }
         if (PerksManager.hasBetterArmour == true)
         {
             betterArmourButton.interactable = false;
+            BetterArmourLocked.SetActive(false);
+            BetterArmourUnlocked.SetActive(true);
         }
         if (PerksManager.hasBetterLasers == true)
         {
             betterLasersButton.interactable = false;
+            BetterLasersLocked.SetActive(false);
+            BetterLasersUnlocked.SetActive(true);
         }
         if (PerksManager.hasUltraArmour == true)
         {
             ultraArmourButton.interactable = false;
+            UltraArmourLocked.SetActive(false);
+            UltraArmourUnlocked.SetActive(true);
         }
     }
     public void ShorterMissileCooldown()

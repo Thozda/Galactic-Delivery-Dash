@@ -164,8 +164,7 @@ public class Player : MonoBehaviour
             if (Time.realtimeSinceStartup - _LastUpdateRealTime >= 1)
             {
                 _LastUpdateRealTime = Time.realtimeSinceStartup;
-                HealthRegenTimer.GetComponent<Image>().fillAmount =
-                    Mathf.Clamp01((30 - (Time.realtimeSinceStartup - _LastDamageRealTime)) / 30);
+                HealthRegenTimer.GetComponent<Image>().fillAmount = Mathf.Clamp01((30 - (Time.realtimeSinceStartup - _LastDamageRealTime)) / 30);
             }
         }
         else
